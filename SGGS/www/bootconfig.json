@@ -1,0 +1,10 @@
+{
+    "remoteAccessConsumerKey": "3MVG9iTxZANhwHQvZof_bkE8RdFcDrBZvrrKTzE3M39OGD_sRs6yrceKlliJn_2WziqKQN1xdmL7ag5uJIV.K",
+    "oauthRedirectURI": "sfdc://sggs",
+    "oauthScopes": ["web", "api"],
+    "isLocal": false,
+    "startPage": "http://glassolutions.force.com/apex/MobileHome",
+    "errorPage": "error.html",
+    "shouldAuthenticate": false,
+    "attemptOfflineLoad": false
+}
